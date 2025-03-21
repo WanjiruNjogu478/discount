@@ -18,6 +18,9 @@ print(students[last])
 students.insert(1, "Alex")
 print(students)
 
+students.insert(3, "larry")
+print(students)
+
 # add a name at the end
 students.append("wanjiru")
 print(students)
